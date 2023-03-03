@@ -18,6 +18,7 @@
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/podejrzane_inne_oszustwa.txt => hosts
 heartbeat.crackle.com
 license-v2-widevine.crackle.com
+licensing.bitmovin.com
 
 
 #@ <<<<<<<< hostsplus => hosts
