@@ -19,6 +19,6 @@
 heartbeat.crackle.com
 license-v2-widevine.crackle.com
 licensing.bitmovin.com
-
+na-east-digital-dual-active.fwgtm.akadns.net
 
 #@ <<<<<<<< hostsplus => hosts
